@@ -8,7 +8,7 @@ select
   and match_status = 'Available'
 
 
---   Quary--2
+--Quary--2
 select
  user_id ,
   full_name,
