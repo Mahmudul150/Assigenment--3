@@ -43,7 +43,7 @@ user_id ,
 full_name,
  bookings.booking_id 
 from users 
-left join bookings using(user_id)
+left join  bookings using(user_id)
 
 
 -- Quary--6
