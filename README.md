@@ -12,7 +12,7 @@ The system maintains relationships between users, matches, and bookings while en
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Design a relational database using PostgreSQL
 - Implement Primary Key and Foreign Key constraints
@@ -26,7 +26,7 @@ The system maintains relationships between users, matches, and bookings while en
 
 ---
 
-# 🗄️ Database Schema
+#  Database Schema
 
 ## 1. Users Table
 
@@ -82,7 +82,7 @@ Each Booking belongs to exactly one User and one Match.
 
 ---
 
-# 🔑 Constraints Used
+#  Constraints Used
 
 - Primary Key
 - Foreign Key
@@ -92,7 +92,7 @@ Each Booking belongs to exactly one User and one Match.
 
 ---
 
-# 📂 Sample Data
+#  Sample Data
 
 ## Users
 
@@ -129,7 +129,7 @@ Each Booking belongs to exactly one User and one Match.
 
 ---
 
-# 📝 SQL Queries Implemented
+#  SQL Queries Implemented
 
 ## Query 1
 Retrieve all available Champions League matches.
@@ -193,7 +193,7 @@ Concept:
 
 ---
 
-# 💻 Technologies Used
+#  Technologies Used
 
 - PostgreSQL
 - SQL
@@ -214,7 +214,7 @@ Football-Ticket-Booking-System
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 1. Create the database.
 2. Create Users, Matches and Bookings tables.
@@ -223,7 +223,7 @@ Football-Ticket-Booking-System
 
 ---
 
-# 📚 Concepts Covered
+#  Concepts Covered
 
 - Database Design
 - ERD
@@ -248,7 +248,7 @@ vedio_Link : https://drive.google.com/file/d/1cIvbtr5l6QsxecfdNL8s2Je6utbI7rR-/v
 ERD_Link : https://drive.google.com/file/d/1hW9Zfyrs0IKAm3qI4o9C6HMhtaTshFxz/view
 
 
-# 👨‍💻 Author
+#  Author
 
 **Mahmudul Hasan**
 
